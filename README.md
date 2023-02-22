@@ -6,7 +6,7 @@
 
 1. All new feature work and bug fixes should be based off of develop and submitted back with a pull request.
 2. Once necessary enhancements and bug fixes have been implemented, the tip of develop should be merged into the existing release branch with a pull request. This will bring the latest changes up into the release pipeline to be built and deployed to TestFlight.
-3. The release workflow should then be triggered via Runway to create a new build of the application for deployment in TestFlight. (You can streamline branch flow further by removing release branch)
+3. The release workflow should then be triggered via Runway to create a new build of the application for deployment in TestFlight. (You can simplify further and not include the release branch – simply tag the develop branch for each build.)
 
 [![](https://mermaid.ink/img/pako:eNqtk09rhDAQxb9KCIiXdXd1WwreWoTSQ3vpNZdZM2qoSSTG0iJ-92Zt3equ9g8sXsbhvd-8IUxLU82RxtTzWqGEjUlL_FzYewNV4fd_EoS6M6DS4gkkup7P8RVLXfldRzrPY2rQM0VIqqUU9lDtew8xWCLUuIm20W4drrdjUV8XmL7oxpIv6sjqOuEmSW4fgjDaBRmCbQyG0ylzdokmx0X3woCrQRKdYpck3xn-mWbMmaaJBsl1UGuJwb7JM_F2Sv5BNZfpb-mWoBPj3GMeCQPyfAxTMyveBKC0LdD8tuWs8AKLnnMvsSshB870oyvqnO6QuLu0ttdQN1gio7ErOWbQlJZRpjonhcbq53eV0jiDssYVbSoOFhMBuQF57CIXVpvHz_Ptr7j7AFkpShM?type=png)](https://mermaid.live/edit#pako:eNqtk09rhDAQxb9KCIiXdXd1WwreWoTSQ3vpNZdZM2qoSSTG0iJ-92Zt3equ9g8sXsbhvd-8IUxLU82RxtTzWqGEjUlL_FzYewNV4fd_EoS6M6DS4gkkup7P8RVLXfldRzrPY2rQM0VIqqUU9lDtew8xWCLUuIm20W4drrdjUV8XmL7oxpIv6sjqOuEmSW4fgjDaBRmCbQyG0ylzdokmx0X3woCrQRKdYpck3xn-mWbMmaaJBsl1UGuJwb7JM_F2Sv5BNZfpb-mWoBPj3GMeCQPyfAxTMyveBKC0LdD8tuWs8AKLnnMvsSshB870oyvqnO6QuLu0ttdQN1gio7ErOWbQlJZRpjonhcbq53eV0jiDssYVbSoOFhMBuQF57CIXVpvHz_Ptr7j7AFkpShM)
 
