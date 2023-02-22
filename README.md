@@ -10,7 +10,7 @@
 
 [![](https://mermaid.ink/img/pako:eNqtk09rhDAQxb9KCIiXdXd1WwreWoTSQ3vpNZdZM2qoSSTG0iJ-92Zt3equ9g8sXsbhvd-8IUxLU82RxtTzWqGEjUlL_FzYewNV4fd_EoS6M6DS4gkkup7P8RVLXfldRzrPY2rQM0VIqqUU9lDtew8xWCLUuIm20W4drrdjUV8XmL7oxpIv6sjqOuEmSW4fgjDaBRmCbQyG0ylzdokmx0X3woCrQRKdYpck3xn-mWbMmaaJBsl1UGuJwb7JM_F2Sv5BNZfpb-mWoBPj3GMeCQPyfAxTMyveBKC0LdD8tuWs8AKLnnMvsSshB870oyvqnO6QuLu0ttdQN1gio7ErOWbQlJZRpjonhcbq53eV0jiDssYVbSoOFhMBuQF57CIXVpvHz_Ptr7j7AFkpShM?type=png)](https://mermaid.live/edit#pako:eNqtk09rhDAQxb9KCIiXdXd1WwreWoTSQ3vpNZdZM2qoSSTG0iJ-92Zt3equ9g8sXsbhvd-8IUxLU82RxtTzWqGEjUlL_FzYewNV4fd_EoS6M6DS4gkkup7P8RVLXfldRzrPY2rQM0VIqqUU9lDtew8xWCLUuIm20W4drrdjUV8XmL7oxpIv6sjqOuEmSW4fgjDaBRmCbQyG0ylzdokmx0X3woCrQRKdYpck3xn-mWbMmaaJBsl1UGuJwb7JM_F2Sv5BNZfpb-mWoBPj3GMeCQPyfAxTMyveBKC0LdD8tuWs8AKLnnMvsSshB870oyvqnO6QuLu0ttdQN1gio7ErOWbQlJZRpjonhcbq53eV0jiDssYVbSoOFhMBuQF57CIXVpvHz_Ptr7j7AFkpShM)
 
-## Releasing and Git Flow (General Availability via App Store and Google Play Store)
+## Releasing and Git Flow (General Availability via App Store and Firebase)
 
 1. All new feature work should be based off of develop and submitted back with a pull request.
 2. At the end of a development cycle, a release branch, such as release/2023.1.0, should be created, and the release workflow should be triggered. These steps should be done using Runway.
